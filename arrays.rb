@@ -16,3 +16,15 @@ a1.concat(a2)
 
 a1.push(5)
 p a1
+
+
+arr =[ 1, 23,4]
+
+for item in arr do 
+  p item
+
+end
+
+arr.each do |item|
+  print( item)
+end

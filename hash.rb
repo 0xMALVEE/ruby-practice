@@ -12,5 +12,14 @@ if not person[:hobby]
 end
 
 puts(person[:hobby])
-
+person.default = "NOT FOUND"
 print(not(person[:hobby]))
+
+# aulternative syntax
+
+animal = {
+  type: "cat",
+  age: "don't know"
+}
+
+p animal[:type]
