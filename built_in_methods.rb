@@ -1,0 +1,1 @@
+# ? (returns true or false) , ! (dangerous and will change the original variable)
