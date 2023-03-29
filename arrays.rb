@@ -28,3 +28,9 @@ end
 arr.each do |item|
   print( item)
 end
+
+pk = [1,2]
+
+one , two = pk
+puts ""
+puts two
